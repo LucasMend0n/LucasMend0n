@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas Mendonça da Silva Junior
-- 👀 I’m looking for new oportunities to improve my knowledge and my skills in Backend Development
+- 👀 I’m looking for new oportunities to improve my knowledge and my skills in Web Development
 - 🌱 I’m currently learning Phyton and creating new projects
 - 📫 You Can reach me trough the email lucasjr413@gmail.com, the Instagram @luh_msjr and the linkedin https://www.linkedin.com/in/lucasmendon/
 
