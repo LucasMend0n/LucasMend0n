@@ -12,7 +12,7 @@ Estudo desenvolvimento de software de forma independente há um tempo, neste ano
  ### Formação Acadêmica
 
  * Técnico em Informática - ETEC Rio Grande da Serra
- * Técnologo em Desenvolvimento de Software Multiplataforma - FATEC Mauá - Cursando (1/6)
+ * Técnologo em Desenvolvimento de Software Multiplataforma - FATEC Mauá - Cursando (2/6)
 
  ### Ferramentas e tecnologias principais
 
