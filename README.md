@@ -9,6 +9,11 @@
 Estudo desenvolvimento de software de forma independente há um tempo, neste ano entrei na Fatec e estou buscando a minha primeira vaga na área de tecnologia!
 
  Neste perfil, trago alguns repositórios de projetos que fiz na Alura, Udemy e outros projetos pessoais.
+ 
+ ## About my repos
+ 
+ Os meus repositórios estão divididos em PRJ e CLS. PRJ se refere a 'project' e CLS a 'class'. Respectivamente os projetos são projetos autorais ou de desafios que faço, sem ser cópia de instrutores, as aulas em "Class" são projetos feitos com um instrutor para conhecer uma tecnologia!
+ 
  ### Formação Acadêmica
 
  * Técnico em Informática - ETEC Rio Grande da Serra
