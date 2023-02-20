@@ -2,7 +2,7 @@
 
 
 
-## About me
+## Sobre mim
  
  Me chamo Lucas Mendonça da Silva Junior, moro em Ribeirão Pires/SP, me interesso por tecnologia desde que me lembro!
  
@@ -10,7 +10,7 @@ Estudo desenvolvimento de software de forma independente há um tempo, neste ano
 
  Neste perfil, trago alguns repositórios de projetos que fiz na Alura, Udemy e outros projetos pessoais.
  
- ## About my repos
+ ## Sobre os repositórios
  
  Os meus repositórios estão divididos em PRJ e CLS. PRJ se refere a 'project' e CLS a 'class'. Respectivamente os projetos são projetos autorais ou de desafios que faço, sem ser cópia de instrutores, as aulas em "Class" são projetos feitos com um instrutor para conhecer uma tecnologia!
  
