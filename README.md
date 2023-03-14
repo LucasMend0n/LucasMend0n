@@ -12,7 +12,7 @@ Estudo desenvolvimento de software de forma independente há um tempo, neste ano
  
  ## Sobre os repositórios
  
- Os meus repositórios estão divididos em PRJ e CLS. PRJ se refere a 'project' e CLS a 'class'. Respectivamente os projetos são projetos autorais ou de desafios que faço, sem ser cópia de instrutores, as aulas em "Class" são projetos feitos com um instrutor para conhecer uma tecnologia!
+ Os meus repositórios estão divididos em PRJ, CLS e CRS. PRJ se refere a 'project', CLS a 'class' e CRS a 'Course'. Respectivamente os projetos são projetos autorais ou de desafios que faço, sem ser cópia de instrutores, as aulas em "Class" são projetos feitos com um instrutor para conhecer uma tecnologia!
  
  ### Formação Acadêmica
 
