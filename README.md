@@ -1,31 +1,24 @@
 # Opa, e aí? Eu sou <a href="https://www.linkedin.com/in/lucasmendon/">Lucas Mendonça!</a>
 
-
-
 ## Sobre mim
- 
- Me chamo Lucas Mendonça da Silva Junior, moro em Ribeirão Pires/SP, me interesso por tecnologia desde que me lembro!
- 
-Estudo desenvolvimento de software de forma independente há um tempo, neste ano entrei na Fatec e estou buscando a minha primeira vaga na área de tecnologia!
 
- Neste perfil, trago alguns repositórios de projetos que fiz na Alura, Udemy e outros projetos pessoais.
- 
- ## Sobre os repositórios
- 
- Os meus repositórios estão divididos em PRJ, CLS e CRS. PRJ se refere a 'project', CLS a 'class' e CRS a 'Course'. Respectivamente os projetos são projetos autorais ou de desafios que faço, sem ser cópia de instrutores, as aulas em "Class" são projetos feitos com um instrutor para conhecer uma tecnologia!
- 
- ### Formação Acadêmica
+Me chamo Lucas Mendonça da Silva Junior, moro em Ribeirão Pires/SP, me interesso por tecnologia desde que me lembro!
 
- * Técnico em Informática - ETEC Rio Grande da Serra
- * Técnologo em Desenvolvimento de Software Multiplataforma - FATEC Mauá - Cursando (2/6)
+Estudo Desenvolvimento de Software Multiplataforma na FATEC Mauá e atualmente trabalho na PRODAM em São Paulo.
 
- ### Ferramentas e tecnologias principais
+## Sobre os repositórios
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+Os meus repositórios estão divididos em PRJ, CLS e CRS. PRJ se refere a 'project', CLS a 'class' e CRS a 'Course'. Respectivamente os projetos são projetos autorais ou de desafios que faço, sem ser cópia de instrutores, as aulas em "Class" são projetos feitos com um instrutor para conhecer uma tecnologia!
 
-    
-          
-          
+### Formação Acadêmica
+
+- Técnico em Informática - ETEC Rio Grande da Serra
+- Técnologo em Desenvolvimento de Software Multiplataforma - FATEC Mauá - Cursando (2/6)
+
+### Ferramentas e tecnologias principais
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
+
 <div>
 <a href="https://github.com/LucasMend0n">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMend0n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,7 +26,7 @@ Estudo desenvolvimento de software de forma independente há um tempo, neste ano
 </a>
 </div>
 
-## Como me contatar? 
+## Como me contatar?
 
 Caso tenha se interessado pelo que viu por aqui, pode me contatar pelos links abaixo!
 
