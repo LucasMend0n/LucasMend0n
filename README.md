@@ -13,7 +13,7 @@ Os meus repositórios estão divididos em PRJ, CLS e CRS. PRJ se refere a 'proje
 ### Formação Acadêmica
 
 - Técnico em Informática - ETEC Rio Grande da Serra
-- Técnologo em Desenvolvimento de Software Multiplataforma - FATEC Mauá - Cursando (2/6)
+- Técnologo em Desenvolvimento de Software Multiplataforma - FATEC Mauá - Cursando (3/6)
 
 ### Ferramentas e tecnologias principais
 
