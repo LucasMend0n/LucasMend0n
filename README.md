@@ -4,8 +4,6 @@
 
 Me chamo Lucas Mendonça da Silva Junior, moro em Ribeirão Pires/SP, me interesso por tecnologia desde que me lembro!
 
-Estudo Desenvolvimento de Software Multiplataforma na FATEC Mauá e atualmente trabalho na PRODAM em São Paulo.
-
 ## Sobre os repositórios
 
 Os meus repositórios estão divididos em PRJ, CLS e CRS. PRJ se refere a 'project', CLS a 'class' e CRS a 'Course'. Respectivamente os projetos são projetos autorais ou de desafios que faço, sem ser cópia de instrutores, as aulas em "Class" são projetos feitos com um instrutor para conhecer uma tecnologia!
@@ -13,7 +11,7 @@ Os meus repositórios estão divididos em PRJ, CLS e CRS. PRJ se refere a 'proje
 ### Formação Acadêmica
 
 - Técnico em Informática - ETEC Rio Grande da Serra
-- Técnologo em Desenvolvimento de Software Multiplataforma - FATEC Mauá - Cursando (5/6)
+- Técnologo em Desenvolvimento de Software Multiplataforma - FATEC Mauá - Cursando (6/6)
 
 ### Ferramentas e tecnologias principais
 
