@@ -4,9 +4,6 @@
 
 Me chamo Lucas Mendonça da Silva Junior, moro em Ribeirão Pires/SP, me interesso por tecnologia desde que me lembro!
 
-## Sobre os repositórios
-
-Os meus repositórios estão divididos em PRJ, CLS e CRS. PRJ se refere a 'project', CLS a 'class' e CRS a 'Course'. Respectivamente os projetos são projetos autorais ou de desafios que faço, sem ser cópia de instrutores, as aulas em "Class" são projetos feitos com um instrutor para conhecer uma tecnologia!
 
 ### Formação Acadêmica
 
@@ -18,12 +15,6 @@ Os meus repositórios estão divididos em PRJ, CLS e CRS. PRJ se refere a 'proje
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
 
-<div>
-<a href="https://github.com/LucasMend0n">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMend0n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMend0n&layout=compact&langs_count=7&theme=dracula"/>
-</a>
-</div>
 
 ## Como me contatar?
 
@@ -31,7 +22,6 @@ Caso tenha se interessado pelo que viu por aqui, pode me contatar pelos links ab
 
 <div>
 <a href="https://www.linkedin.com/in/lucasmendon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/luh_msjr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:lucasjr413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
