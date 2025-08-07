@@ -8,7 +8,7 @@ Me chamo Lucas Mendonça da Silva Junior, moro em Ribeirão Pires/SP, me interes
 ### Formação Acadêmica
 
 - Técnico em Informática - ETEC Rio Grande da Serra
-- Técnologo em Desenvolvimento de Software Multiplataforma - FATEC Mauá - Cursando (6/6)
+- Formado em Desenvolvimento de Software Multiplataforma - FATEC Mauá
 
 ### Ferramentas e tecnologias principais
 
